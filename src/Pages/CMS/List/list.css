@@ -1,0 +1,14 @@
+.listContainer{
+    width: 70%;
+    margin: auto;
+    padding-top: 2rem;
+    
+   
+}
+
+.listTable{
+    border: 1px solid gold;
+}
+.breadcrumbs{
+    width: 100%;
+}

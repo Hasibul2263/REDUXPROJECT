@@ -1,0 +1,36 @@
+.logiContainer{
+    display: flex;
+    flex-direction: row;
+
+}
+.loginForm {
+    width: 28%;
+    padding: 40px;
+    border-radius: 20px;
+    /* margin-top: 100px; */
+    border: 1px solid rgba(2, 0, 36, 1);
+}
+
+.loginbtn {
+    width: 100%;
+    border: none;
+    border-radius: 20px;
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(75, 14, 154, 1) 35%, rgba(0, 212, 255, 1) 100%);
+}
+.loginFormControl{
+    color: rgba(0,0,0,.7);
+    border: none;
+    border-bottom: 3px solid rgba(2, 0, 36, 1);
+    
+    box-shadow: none ! important;
+    border-radius: 4px, 4px, 0,0;
+    background-color: white;
+    
+}
+.loginHeading{
+    font-size: 2rem;
+    font-weight: 700;
+}
+.loginLabel{
+    font-weight: 600;
+}
